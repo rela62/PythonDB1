@@ -3,7 +3,7 @@ DB_Names_to_csv.py
 Insert data from database to outputnames.csv
 Id,Name,Year,Gender,State,Count
 @author: RLange
-2022-02-07
+2022-02-08
 """
 
 import pymysql, sys
